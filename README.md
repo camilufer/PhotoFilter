@@ -12,7 +12,7 @@ Uso
 -----
 
 Selecciona una imagen y cargala en tu archivo html, dale el id="filtro".
-Dale a tu imágen alguno de los siguientes ID disponibles para filtrar tu fotografía.
+Crea un boton (o lo que tu quieras) y añadele cualquiera de los siguientes id para aplicarle el filtro correspondiente.
 
 * **blur** 
 * **brightness**
