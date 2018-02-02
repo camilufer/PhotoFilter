@@ -11,7 +11,7 @@ npm install PhotoFilter-proyect
 Uso
 -----
 
-Selecciona una imagen y cargala en tu archivo html.
+Selecciona una imagen y cargala en tu archivo html, dale el id="filtro".
 Dale a tu imágen alguno de los siguientes ID disponibles para filtrar tu fotografía.
 
 * **blur** 
