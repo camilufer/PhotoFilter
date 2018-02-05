@@ -36,6 +36,18 @@ Documentación
 * **[gitignore](https://git-scm.com/docs/gitignore)**
 * **[package.json](https://docs.npmjs.com/files/package.json)**
 
+Herramientas de desarrollo
+---------------------------
+
+* **Control de versiones GIT**
+* **chai v.4.1.2**
+* **mocha v.5.0.0**
+
+Herramientas de producción
+---------------------------
+
+Materialize beta release v0.100.2
+
 
 Autor
 -----
